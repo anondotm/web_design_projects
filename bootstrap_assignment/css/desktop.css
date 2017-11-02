@@ -1,0 +1,39 @@
+ .container {
+	width: 900px;
+}
+.navbar{
+	width: 900px;
+}
+
+.col-lg-4 img{
+	display: block;
+	margin: 0 auto;
+}
+
+.carousel-caption{
+	/* background settings
+	opacity: 0.8;
+	background-color: white;*/
+
+	/* text settings */
+	/*
+	color: black;
+	font-weight: normal;
+	text-shadow: none;
+	*/
+	text-align: center;
+
+	/* sizing */
+	/*padding: 20px;
+	width: 300px;
+	height: 200px;
+
+	/* position */
+	/*margin-top: %;
+	/*position: absolute;*/
+	
+	top: 275px;
+	left: 0px;
+	right: 0px;
+	
+}

@@ -1,0 +1,153 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar {
+	
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+.spacing_navbar{
+	float: left;
+	width: 300px;
+}
+
+.navbar-inverse .navbar-nav li a:hover, .navbar-inverse .navbar-nav li a:focus, .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-nav li a:active{
+	color: black;
+}
+
+.navbar li{
+	font-size: 18px;
+}
+
+.navbar-brand{
+	font-size: 24px;
+}
+
+p, ul.list-unstyled, p.intro {
+	font-size: 14px;
+	line-height: 30px;
+	color: #3d3d3d;
+}
+
+address ul.list-unstyled{
+	font-size: 16px;
+	padding-top: 25px;
+}
+
+address img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+.container {
+	background-color: white;
+}
+
+.details p, section.forms p {
+	font-size: 14px;
+	padding-right: 1px;
+}
+
+.details {
+	
+}
+
+section.forms{
+	
+}
+
+
+
+.carousel-caption p{
+	color: #eaeaea;
+}
+
+
+.carousel-inner{
+	max-height: 450px;
+}
+
+address{
+	
+}
+
+input.form-control .input-lg{
+	box-sizing: border-box;
+}
+
+table, tr, th {
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	border: 1px solid black;
+	width: 300px;
+	height: 50px;
+	font-weight: normal;
+}
+
+.details {
+}
+
+.inputForm{
+	margin-bottom: 50px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+a:active{
+	color: black;
+}
+
+footer{
+	display: block;
+	text-align: center;
+	margin-top: 50px;
+}
+
+h4{
+	color: gray;
+	margin-top: 30px;
+	font-size: 12px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 0px
+	padding-left: 0px;
+	text-align: center;
+
+}
+
+
+
+/*
+
+body {
+	background-image: url(../images/nature.jpg)
+}
+
+*/
+
+/*
+.header_image {
+	width: 900px;
+	height: 100px;
+	background-image: url(../images/nature.jpg);
+	background-repeat: none;
+
+}
